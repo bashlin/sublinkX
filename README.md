@@ -44,6 +44,12 @@ surge支持协议:ss trojan vmess hy2 tuic
 ![1712594176714](webs/src/assets/1.png)
 ![1712594176714](webs/src/assets/2.png)
 
+## [2.1.1更新说明]
+
+#### 后端更新
+
+1. 修复clash订阅,节点排序错误
+
 ## [2.1更新说明]
 
 #### 后端更新
